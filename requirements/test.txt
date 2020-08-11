@@ -1,0 +1,8 @@
+-r base.txt
+
+faker
+pytest
+pytest-cov
+pre-commit
+responses
+devtools

@@ -1,0 +1,14 @@
+fastapi
+requests
+orjson
+email_validator
+uvicorn
+gunicorn
+peewee
+psycopg2-binary
+pydash
+python-dateutil
+python-json-logger
+PyJWT
+sentry-sdk
+python-dotenv

@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "config:base",
+    ":githubComToken(ZC0qjIYc/xDTi9Ws8dWa17wYozuAx2Z6d0+Uk3gdeMJXzpFdPD1Pp45LY6/P+RPPHeSR10eMhxWu54+krmLmR8YmZeBnQhVMvV+fUDfEH4YdD94HhRPKe+ogJx7sxKd5baaBiDUGHBg9T+kpV8WMhTRl81zhryB+jQwFHdfnIeX2oaZrjg6HbqhmTK48oKfxYCD09Cj/GVgBxogeH6BTm6qkm+nle3IGd0hKAO+KHNwGuAR/7sKyfX+Dsyi13V2qOV+CpvMSj6bLr0nzdcKZfQBfbRr6RubvbZ6UGDmGptUR9VoJcmd/ZrgkzhGq8HhS2BNyuaBIt6Je12w7bAFmdA==)"
+  ],
+  "pip_requirements": {
+    "fileMatch": [
+      "^requirements/.*\\.txt$"
+    ]
+  }
+}
